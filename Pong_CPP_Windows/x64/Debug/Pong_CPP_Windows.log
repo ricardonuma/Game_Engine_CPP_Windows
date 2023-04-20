@@ -1,0 +1,7 @@
+﻿C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(517,5): warning MSB8028: O diretório intermediário (x64\Debug\) contém arquivos compartilhados de outro projeto (Pong_CPP_Windows.vcxproj). Isso pode levar a um comportamento incorreto de limpeza e recompilação.
+  win32_platform.cpp
+C:\Users\Ricardo T. F. Numa\source\repos\Game_Engine_CPP_Windows\Pong_CPP_Windows\renderer.cpp(42,9): warning C4244: 'inicializando': conversão de 'float' para 'int', possível perda de dados
+C:\Users\Ricardo T. F. Numa\source\repos\Game_Engine_CPP_Windows\Pong_CPP_Windows\renderer.cpp(43,9): warning C4244: 'inicializando': conversão de 'float' para 'int', possível perda de dados
+C:\Users\Ricardo T. F. Numa\source\repos\Game_Engine_CPP_Windows\Pong_CPP_Windows\renderer.cpp(44,9): warning C4244: 'inicializando': conversão de 'float' para 'int', possível perda de dados
+C:\Users\Ricardo T. F. Numa\source\repos\Game_Engine_CPP_Windows\Pong_CPP_Windows\renderer.cpp(45,9): warning C4244: 'inicializando': conversão de 'float' para 'int', possível perda de dados
+  Pong_CPP_Windows.vcxproj -> C:\Users\Ricardo T. F. Numa\source\repos\Game_Engine_CPP_Windows\x64\Debug\Game_Engine_CPP_Windows.exe

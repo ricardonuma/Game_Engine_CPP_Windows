@@ -1,0 +1,3 @@
+﻿  win32_platform.cpp
+C:\Users\Ricardo T. F. Numa\source\repos\Pong_CPP_Windows\Pong_CPP_Windows\win32_platform.cpp(7,5): warning C4007: 'WinMain': deve ser '__stdcall'
+  Pong_CPP_Windows.vcxproj -> C:\Users\Ricardo T. F. Numa\source\repos\Pong_CPP_Windows\Debug\Pong_CPP_Windows.exe
